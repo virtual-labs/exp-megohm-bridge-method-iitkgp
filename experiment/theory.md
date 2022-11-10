@@ -38,3 +38,4 @@ However, if the same resistance is measured by a modified wheatstone bridge as s
 </div>
 
 The arrangement of Figure 4 illustrates the operation of a Megohm bridge. Fig.4 shows the circuit completely self contained megohm bridge which includes power supplies, bridge members, amplifiers and indicating instrument. It has a range from `0.1MΩ` to `10^6MΩ`. The accuracy is within `3%` for the lower part of the range to possible `10%` above `10,000 MΩ`.
+ <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

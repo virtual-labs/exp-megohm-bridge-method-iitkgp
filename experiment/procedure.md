@@ -14,5 +14,6 @@
  </br>
 4)  Varry the values of bridge resistances P, Q, and S from the resistance box until the null deflection is occurred.
  </br>
-5)  If "NULL" is achieved, switch to 'Measure Unknown Resistor' tab and click on 'Simulate'. Observe the unknown high      resistance value Rab.
+5)  If "NULL" is achieved, switch to 'Measure Unknown Resistor' tab and click on 'Simulate'. Observe the unknown high      resistance value R<sub>ab</sub>.
  </br>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

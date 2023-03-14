@@ -1,10 +1,5 @@
-# Introduction
+## Introduction
 
-To determine the High Resistance by Megohm Bridge method. 
-
-## Theory
-
- 
 Figure 1 shows a very high resistance R with its two main terminals A and B and a guard terminal, which is put on the insulation. This high resistance may be diagramatically represented as in Figure 2.
 
 <div align="center">
@@ -19,7 +14,7 @@ Figure 1 shows a very high resistance R with its two main terminals A and B and 
 ***[Figure 2]***
 </div>
 
-The resistance R is between main terminals A and B and the leakage resistances Rag and Rbg between the main terminals A and B of form a "Three terminal resistance". Let us consider the hypothetically case of a 100 MΩ resistance. We assume that each of the leakage resistances is also the same values. Measured by ordinary wheatstone bridge method, we get the value of 67MΩ and the giving error of 33% of original value.
+The resistance R is between main terminals A and B and the leakage resistances Rag and Rbg between the main terminals A and B of form a "Three terminal resistance". Let us consider the hypothetically case of a `100 MΩ` resistance. We assume that each of the leakage resistances is also the same values. Measured by ordinary wheatstone bridge method, we get the value of `67MΩ` and the giving error of `33%` of original value.
 
 
 <div align="center">
@@ -37,5 +32,4 @@ However, if the same resistance is measured by a modified wheatstone bridge as s
 ***[Figure 4]***
 </div>
 
-The arrangement of Figure 4 illustrates the operation of a Megohm bridge. Fig.4 shows the circuit completely self contained megohm bridge which includes power supplies, bridge members, amplifiers and indicating instrument. It has a range from 0.1MΩ to 10<sup>6</sup>MΩ. The accuracy is within 3% for the lower part of the range to possible 10% above 10,000 MΩ.
- <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+The arrangement of Figure 4 illustrates the operation of a Megohm bridge. Fig.4 shows the circuit completely self contained megohm bridge which includes power supplies, bridge members, amplifiers and indicating instrument. It has a range from `0.1MΩ` to `10^6MΩ`. The accuracy is within `3%` for the lower part of the range to possible `10%` above `10,000 MΩ`.

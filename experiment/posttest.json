@@ -2,35 +2,52 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The four arms of Wheatstone bridge are as follows: AB=100 Ω, BC=10 Ω, CD=4 Ω, and DA=50 Ω. The galvanometer has a resistance of 20 Ω and is connected across BD. A source of 10V d.c. is connected across AC. Find the current through the galvanometer. What should be the resistance in the arm DA for no current through the galvanometer.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "5.15mA, 40Ω",
+        "b": "4.15mA, 30Ω",
+        "c": "7.15mA, 10Ω",
+        "d": "6.15mA, 20Ω"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is correct",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Bridge circuits are used for measurement of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Resistance",
+        "b": "Inductance",
+        "c": "Capacitance",
+        "d": "All of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The four arms of Wheatstone bridge are as follows: AB=100 Ω, BC=1000 Ω, CD=4000 Ω, and DA=400 Ω. The galvanometer has a resistance of 100 Ω, a sensitivity of 100mm/uA and is connected across AC. A source of 4V d.c. is connected across BD. calculate the current through the galvanometer.",
+      "answers": {
+        "a": "1.61uA",
+        "b": "1.62uA " ,
+        "c": "1.63uA" ,
+        "d": "1.53uA" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (c).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (c).",
+        "c": "You have choosen option (c). The answer is correct.",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (c)."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
